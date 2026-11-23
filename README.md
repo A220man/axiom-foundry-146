@@ -1,2 +1,8 @@
-# axiom-foundry-146
-Ryan Vo | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+# axiom-foundry-146 — Ryan Vo
+
+Current version: `1.0.0`.
+
+> Work in progress. This checkpoint may be incomplete or fail tests. See PLAN.md and STATUS.md before use.
+
+
+Maintainer: Ryan Vo <ryandtvo@gmail.com>
